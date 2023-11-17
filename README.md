@@ -54,7 +54,7 @@
 
 ### ERD
 <center>
-    <img src="./img/팜팜조_ERD.PNG" style="zoom:55%;"/>
+    <img src="./img/팜팜조_ERD.png" style="zoom:55%;"/>
 </center>
 
 ### 릴레이션 스키마
